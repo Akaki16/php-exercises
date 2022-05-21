@@ -11,7 +11,7 @@ After submit button is pressed show the input text and the number of characters 
 
 ## Example
 
-What is the input text? dog
+What is the input text? 'dog'
 dog has 3 characters
 
 If text is not provided notify user that he/she must enter some text in the input field
