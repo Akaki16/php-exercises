@@ -1,7 +1,5 @@
 <?php include 'inc/header.php' ?>
 
-<?php include 'utils/logger.php' ?>
-
 <?php
     $message;
 
