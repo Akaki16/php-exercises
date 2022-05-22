@@ -14,7 +14,7 @@
             $errors['empty_text'] = '';
         }
 
-        // check if text only contains 
+        // check if text only contains alphabet characters
         if (!ctype_alpha($text)) {
             $errors['alpha_text'] = 'Text must only contain alphabet characters';
         } else {
